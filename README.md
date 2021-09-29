@@ -125,7 +125,10 @@
 
 [![MaxxRider](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://telegram.dog/MaxxRiderz)]
 
-    
+
+### Easy Way
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/Media-Search-bot)
+
 ## CREDITS
 
  - [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
